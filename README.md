@@ -1,5 +1,16 @@
 # Graph Neural Networks for Node Classification & Recommendations
 
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch-Geometric-0081A5?style=flat-square&logo=pytorch)
+![Graph Neural Networks](https://img.shields.io/badge/Graph-Neural%20Networks-purple?style=flat-square)
+![Cora Dataset](https://img.shields.io/badge/Dataset-Cora-lightgrey?style=flat-square)
+![MovieLens](https://img.shields.io/badge/Dataset-MovieLens-ff69b4?style=flat-square)
+
+
+
+
 This project applies **Graph Neural Networks (GNNs)** to:
 - **Node classification** on the **Planetoid** (Cora) citation network.
 - **Recommendation / rating prediction** on the **MovieLens** dataset using a user–movie bipartite graph.
